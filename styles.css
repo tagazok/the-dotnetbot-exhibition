@@ -39,6 +39,10 @@ p, li {
     color: var(--purple);
 }
 
+.center {
+    text-align: center;
+}
+
 .banner {
     box-shadow: 0 3px 6px -3px #bdbdbd;
     padding: 3rem;
