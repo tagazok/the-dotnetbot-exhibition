@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to contribute</title>
+    <link href="https://fonts.googleapis.com/css2?family=Paytone+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.8.4/themes/prism.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.8.4/prism.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="banner flex direction-column align-items-center">
+            <h1 class="title">
+                The <span class="purple">.NET</span> Bot Exhibition
+            </h1>
+            <div class="add-bot flex align-items-center">
+               <h1>HOW TO CONTRIBUTE</h1>
+            </div>
+        </div>
+    </header>
+    <main class="container">
+        <p>
+            You need a GitHub Account to contribute. If you don't have one, don't worry, it's very easy. Just go to <a href="https://github.com/join" target="_new">this page</a>.
+        </p>
+        <h3>The easy way</h3>
+        <p>
+            <ol>
+                <li>Go to <a href="https://mod-dotnet-bot.net/create-your-bot" target="_new">https://mod-dotnet-bot.net</a> and create your own .NET Bot.</li>
+                <li>Export it to an image (use the share and then download buttons).</li>
+                <li>Rename the image file with your GitHub username  (ex: <span class="code">your-username.png</span>).</li>
+                <li></li>
+                <li>Go to <a href="https://github.com/tagazok/the-bot-exhibition" target="_blank">this GitHub repository</a>.</li>
+                <li>Fork the repository by clicking the "fork" button on the top right.</li>
+                <li>Upload and commit your image in the "bots" folder
+                    <ul>
+                        <li>Navigate to the <span class="code">Code</span> tab</li>
+                        <li>Go into the <span class="code">bots</span> folder</li>
+                        <li>Click on <span class="code">Add file</span> button</li>
+                        <li>Drag & Drop your file in the designated area</li>
+                        <li>Add a <span class="code">commit changes</span> message</li>
+                        <li>Click on <span class="code">Commit changes</span> (make sure the image is fully uploaded before)</li>
+                    </ul>
+                </li>
+                <li>Add and commit your GitHub username and message in the <span class="code">contributors.json</span> file</li>
+                <ul>
+                    <li>Navigate to the <span class="code">Code</span> tab</li>
+                    <li>Open the <span class="code">contributors.json</span> file</li>
+                    <li>Click on the 🖉 icon. This should open a text editor</li>
+                    <li>Add a line with your username and a short message
+                        <p>
+                            <code class="language-json">
+                                { "username": "your-username", "message": "Say something kind or fun" },
+                            </code>
+                        </p>
+                    </li>
+                    <li>Add a <span class="code">commit changes</span> message</li>
+                    <li>Click on <span class="code">Commit changes</span></li>
+                </ul>
+                <li>Create the Pull Request 🎉
+                    <ul>
+                        <li>Navigate to the <span class="code">Code</span> tab</li>
+                        <li>Just above the folders & files list, you should have a <span class="code">Pull request</span> button. Click on it</li>
+                        <li>Click on the <span class="code">Create pull request</span> button</li>
+                        <li>Enter a title</li>
+                        <li>Make sure your pull request checks all the conditions</li>
+                        <li>Click on the <span class="code">Create pull request</span> button</li>
+                    </ul>
+                </li>
+            </ol>
+            <center>Your PR is done !</center>
+        </p>
+        <h3>The developer way</h3>
+        <p>
+            <ol>
+                <li>Go to <a href="https://mod-dotnet-bot.net/create-your-bot" target="_new">https://mod-dotnet-bot.net</a> and create your own .NET Bot</li>
+                <li>Export it to an image (use the share and then download buttons)</li>
+                <li>Go to <a href="https://github.com/tagazok/the-bot-exhibition" target="_blank">this GitHub repository</a></li>
+                <li>Fork the repository and clone it</li>
+                <li>Rename the image file with your GitHub username  (ex: <span class="code">your-username.png</span>)</li>
+                <li>Add your image in the <span class="code">bots/ folder</span></li>
+                <li>In the <span class="code">contributor.json</span> file, add a line with your GitHub username and a short message</li>
+                    <p>
+                        <code class="language-json">
+                        { "username": "your-username", "message": "Say something kind or fun" },
+                        </code>
+                    </p>
+                </li>
+                <li>Commit and push your modification</li>
+                <li>Create a PR</li>
+            </ol>
+        </p>
+    </main>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.8.4/components/prism-json.min.js"></script>
+</body>
+</html>
