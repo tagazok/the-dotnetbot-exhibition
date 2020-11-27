@@ -25,7 +25,7 @@ function createBot(contributor) {
     const template = `
         <div class="bot">
             <img src="./bots/${contributor.username}.png" loading="lazy"/>
-            <a href="http://github.com/${contributor.username} target="_new">${contributor.username}</a>
+            <a href="http://github.com/${contributor.username}" target="_new">${contributor.username}</a>
             <div class="message">
                 ${contributor.message}
             </div>
