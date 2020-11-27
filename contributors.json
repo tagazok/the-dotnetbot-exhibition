@@ -1,12 +1,6 @@
 {
     "contributors" : [
-        {
-            "username": "tagazok",
-            "message": "Coucou c'était trop cool !"
-        },
-        {
-            "username": "sinedied",
-            "message": "Bienvenue à Greeuuunoble"
-        }
+        {"username": "tagazok", "message": "DevPMMs are the best !"},
+        {"username": "sinedied", "message": "Venez à Grenoble 🎿"}
     ]
 }
