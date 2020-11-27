@@ -9,7 +9,8 @@ getContributors();
 async function getContributors() {
     const response = await fetch('./contributors.json');
     const json = await response.json();
-    const contributors = json.contributors;
+    const contributors = shuffle(json.contributors);
+    
     nbBots.innerText = contributors.length;
     buildContributorsList(contributors);
 }
@@ -36,3 +37,12 @@ function createBot(contributor) {
 
     return fragment;
 }
+
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      let j = Math.floor(Math.random() * (i + 1));
+  
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
