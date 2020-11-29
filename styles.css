@@ -55,6 +55,19 @@ p, li {
     text-align: center;
 }
 
+footer {
+    color: #808080;
+    font-size: 14px;
+}
+
+footer .heart {
+    color: red;
+}
+
+footer a {
+    color: #3f51b5;
+    text-decoration: none;
+}
 .add-bot {
     margin-top: 3rem;
     margin-bottom: 3rem;
