@@ -1,5 +1,6 @@
 {
     "contributors" : [
+        { "username": "ShirinMS", "message": "Say something kind or fun" },
         { "username": "Reine des Apps", "message": "Apps Forver" },
         {"username": "tagazok", "message": "to infinity and beyond 🚀!"},
         { "username": "ChGrenet", "message": "I got my boots on" },
@@ -8,7 +9,11 @@
         { "username": "maud-lv", "message": "I'm a snowboard champion!" },
         { "username": "jcpitie", "message": "I'm a cyber tech!" }
         { "username": "PennyBrouch", "message": "You want a chocolatine?" }
+        { "username": "fabien-medat", "message": "this is my bot" },
         { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "PennyBrouch", "message": "You want a chocolatine?" },
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "KenzaIb", "message": "I ain't no GIT" },
         { "username": "xavperret", "message": "Who is the boss??????" }
     ]
 }
