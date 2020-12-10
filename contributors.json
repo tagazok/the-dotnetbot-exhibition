@@ -1,10 +1,28 @@
 {
     "contributors" : [
+        { "username": "emma-lalouette", "message": "you shall not pass" },
+        { "username": "StanislasMonange", "message": "Fuyez pauvres fous!" },
+        { "username": "ShirinMS", "message": "Say something kind or fun" },
+        { "username": "Reine des Apps", "message": "Apps Forver" },
         {"username": "tagazok", "message": "to infinity and beyond 🚀!"},
         { "username": "ChGrenet", "message": "I got my boots on" },
         { "username": "manekinekko", "message": "Let's have fun!" },
         {"username": "sinedied", "message": "Grenoble has swag B-]"},
         {"username": "fredaatz", "message": "la class ou pas!!"},
-        { "username": "maud-lv", "message": "I'm a snowboard champion!" }
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        {"username": "ChrisBorde", "message": "Stay hungry stay foolish"},
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "MatBret", "message": "Merry Christmas!" },
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "sihameaarab", "message": "Ho ho ho" },
+        { "username": "jcpitie", "message": "I'm a cyber tech!" },
+        { "username": "PennyBrouch", "message": "You want a chocolatine?" },
+        { "username": "fabien-medat", "message": "this is my bot" },
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "PennyBrouch", "message": "You want a chocolatine?" },
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "KenzaIb", "message": "I ain't no GIT" },
+        { "username": "NicoMS", "message": "Allô la Terre !?" },
+        { "username": "xavperret", "message": "Who is the boss??????" }
     ]
 }
