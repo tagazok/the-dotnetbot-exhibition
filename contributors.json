@@ -1,10 +1,13 @@
 {
     "contributors" : [
+        { "username": "Reine des Apps", "message": "Apps Forver" },
         {"username": "tagazok", "message": "to infinity and beyond 🚀!"},
         { "username": "ChGrenet", "message": "I got my boots on" },
         { "username": "manekinekko", "message": "Let's have fun!" },
         {"username": "sinedied", "message": "Grenoble has swag B-]"},
-        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
         { "username": "MatBret", "message": "Merry Christmas!" }
+        { "username": "PennyBrouch", "message": "You want a chocolatine?" }
+        { "username": "maud-lv", "message": "I'm a snowboard champion!" },
+        { "username": "xavperret", "message": "Who is the boss??????" }
     ]
 }
